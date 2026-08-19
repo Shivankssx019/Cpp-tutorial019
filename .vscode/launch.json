@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/ASUS/OneDrive/Desktop/D.S.A _ C++/basic of c++",
       "program": "c:/Users/ASUS/OneDrive/Desktop/D.S.A _ C++/basic of c++/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/ASUS/OneDrive/Desktop/Practice",
+      "program": "c:/Users/ASUS/OneDrive/Desktop/Practice/build/Debug/outDebug",
+>>>>>>> 0bfd680 (1st commit)
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
