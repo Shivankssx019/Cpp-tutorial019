@@ -41,7 +41,7 @@ for(int i = 0;i < m;i++){
 cout<<endl;
 
     for(int i = 0;i < m;i++){
-    for(int j = m-1;j >= 0;j++){
+    for(int j = m-1;j >= 0;j--){
        int temp = a[i][j];
        a[i][j] = a
     }
